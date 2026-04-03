@@ -1,5 +1,5 @@
 <center>
-  <img src="[path/to/image.png](./src/main/resources/assets/veilbound/icon.png)" alt="LOGO">
+  <img src="[path/to/image.png](./src/main/resources/assets/veilbound/icon.png" alt="LOGO">
 </center>
 # 🌌 Veilbound
 > *The myths were never just stories.*
