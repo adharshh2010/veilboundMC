@@ -2,8 +2,8 @@
 > *The myths were never just stories.*
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.21%2B-brightgreen?style=flat-square)](https://minecraft.net)
-[![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square)]()
-[![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)]()
+[![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square)](#)
+[![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
 
 ---
 
