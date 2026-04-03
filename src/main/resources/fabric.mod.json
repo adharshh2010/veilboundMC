@@ -1,0 +1,41 @@
+{
+	"schemaVersion": 1,
+	"id": "veilbound",
+	"version": "${version}",
+	"name": "Veilbound",
+	"description": "When mythology enters the world of minecraft!",
+	"authors": [
+		"Adharsh"
+	],
+	"contact": {
+		"homepage": "",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/veilbound/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.adharsh.veilbound.Veilbound"
+		],
+		"client": [
+			"com.adharsh.veilbound.client.VeilboundClient"
+		],
+		"fabric-datagen": [
+			"com.adharsh.veilbound.client.VeilboundDataGenerator"
+		]
+	},
+	"mixins": [
+		"veilbound.mixins.json",
+		{
+			"config": "veilbound.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.18.6",
+		"minecraft": "~26.1",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
