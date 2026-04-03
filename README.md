@@ -1,5 +1,5 @@
 <center>
-  ![Logo](https://github.com/adharshh2010/veilboundMC/blob/main/src/main/resources/assets/veilbound/icon.png)
+  <img src="[path/to/image.png](https://github.com/adharshh2010/veilboundMC/blob/main/src/main/resources/assets/veilbound/icon.png)" alt="LOGO">
 </center>
 # 🌌 Veilbound
 > *The myths were never just stories.*
