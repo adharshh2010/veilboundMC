@@ -1,6 +1,7 @@
 <div align="center">
   <img src="./src/main/resources/assets/veilbound/icon.png" alt="LOGO">
 </div>
+
 # 🌌 Veilbound
 > *The myths were never just stories.*
 
