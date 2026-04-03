@@ -1,3 +1,6 @@
+<center>
+  ![Logo](https://github.com/adharshh2010/veilboundMC/blob/main/src/main/resources/assets/veilbound/icon.png)
+</center>
 # 🌌 Veilbound
 > *The myths were never just stories.*
 
