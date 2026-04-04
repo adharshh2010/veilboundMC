@@ -69,5 +69,6 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
   ⭐ Star this repo if you're excited for Veilbound!
 </div>
 
-
+<div align="center">
 **NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT**
+</div>
