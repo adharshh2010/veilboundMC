@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./src/main/resources/assets/veilbound/icon.png" alt="LOGO">
+  <img src="./src/main/resources/assets/veilbound/icon.png" alt="LOGO" height="150">
 </div>
 
 # 🌌 Veilbound
