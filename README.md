@@ -69,7 +69,8 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
   ⭐ Star this repo if you're excited for Veilbound!
 </div>
 
-</br>
+</br
+  
 ---
 
 <div align="center">
